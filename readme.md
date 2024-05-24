@@ -5,8 +5,8 @@ This repository contains code for a YouTube tutorial demonstrating how to set up
 **Features:**
 
 * **Structured Chat Agent:** Utilizes LangChain's structured chat agent framework for efficient and human-like conversation.
-* **Vision Tool:** Enables the agent to analyze images captured from the user's webcam.
-* **Screenshot Tool:** Allows the agent to take screenshots of the user's screen for analysis.
+* **Vision Tool:** Enables the agent to analyze images captured from the user's webcam with opencv-python package.
+* **Screenshot Tool:** Allows the agent to take screenshots of the user's screen for analysis with pillow (PIL) package.
 * **Gemini Pro Integration:** Leverages the power of Google Vertex AI's Gemini Pro model for advanced reasoning and image understanding.
 * **Voice Service Integration:** (Optional) Uses a voice service to play back responses.
 
