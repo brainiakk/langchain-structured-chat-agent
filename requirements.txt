@@ -1,0 +1,9 @@
+pillow
+langchain
+langchain_community
+langchainhub
+langchain_google_vertexai
+typing
+opencv-python
+torch
+pygame
